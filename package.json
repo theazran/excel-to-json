@@ -1,0 +1,17 @@
+{
+  "name": "excel-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Asran",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
